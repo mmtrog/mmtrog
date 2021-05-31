@@ -1,6 +1,5 @@
-# WELCOME 
-![Welcome](https://www.twc.edu.hk/uploads/files/Lib/Welcome.jpg)
+[](https://pbs.twimg.com/media/DM_-DeQXkAI0s32.jpg) 
 
 - 🔭 I’m currently studying on [Hanoi university of science and technology](https://www.hust.edu.vn/)
-- 👯 I’m looking to collaborate on ![Java application](https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png)
+- 👯 I’m looking to collaborate on `Java application`
 - 💬 How to reach me: *minhtrongbka@gmail.com*
